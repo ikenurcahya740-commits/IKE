@@ -6,6 +6,4 @@ st.write(
 )
 st.title("ike cahya's project")
 st.title("_Streamlit_ is :blue[cool] :sunglasses:")
-import datetime
-import streamlit as st
 
