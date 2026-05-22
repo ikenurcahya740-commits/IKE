@@ -10,4 +10,4 @@ import datetime
 import streamlit as st
 
 d = st.date_input("When's your birthday", datetime.date(2007, 02, 25))
-st.write("my birthday is:", d)
+st.write("myy birthday is:", d)
